@@ -77,14 +77,6 @@ This project demonstrates key strategies for energy efficiency in embedded syste
 - **Lab 2**: Python, OpenCV, scikit-image
 - **Lab 3**: C++ Compiler, SystemC, SystemC-AMS
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repository.git
-   ```
-2. Navigate to the corresponding lab folder and follow the specific setup instructions in each `README.md` file.
-
 ## Acknowledgments
 
 Special thanks to the course instructors and colleagues for valuable insights and guidance throughout the project.
