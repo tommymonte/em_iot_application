@@ -1,4 +1,4 @@
-# Project Title: Energy-Efficient Systems and Power Management
+# Energy-Efficient Systems and Power Management
 
 ## Authors
 
